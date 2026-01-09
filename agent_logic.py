@@ -8,7 +8,6 @@ from typing import List, Dict, Any, Optional
 # LlamaIndex 核心组件
 from llama_index.llms.ollama import Ollama
 from llama_index.core import Settings
-
 # =========================================================
 # 1. LLM 初始化 (带容错)
 # =========================================================
